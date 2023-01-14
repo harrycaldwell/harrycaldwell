@@ -5,9 +5,9 @@
 In terms of coding, I am really inexperienced with little knowledge. For this page, I plan on posting projects from the my college course and adding projects that I will be doing while in University. Im treating this as a portfolio of sorts that allows me to record changes to my programs and let people see how I am fixing my programs and progressing.
 
 Programing languages that I have used:
--C
--python
--Octave
--HTML
--CSS
--SQL
+- C
+- python
+- Octave
+- HTML
+- CSS
+- SQL
