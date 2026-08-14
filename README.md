@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harrycaldwell
-- 👀 I’m currently in University for computer science with cyber security and have done both a Level 2 and level 3 BTEC in information technology, working with hardware is a hobby of mine that I would like to explore more and maybe even do small projects of my own, but cyber security is the part of the industry that I would like to persue.
+- 👀 Hey! Im a alumni of the University of Brighton and currently CTS Analyst for Natwest Boxed. My main role is to administrate SaaS and device estates and develop features for a custom GitOps directory
 - 📫 The easiest way to reach me is through discord, ShotZ_.
 
 Programing languages that I have used:
